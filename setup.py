@@ -10,6 +10,5 @@ setup(
     author_email='xiaozizayang@gmail.com',
     url="https://github.com/howie6879/MagicGoogle/blob/master/README.md",
     packages=find_packages(),
-    package_data={'': ['*.txt']},
-    include_package_data=True
+    package_data={'': ['*.txt']}
 )
