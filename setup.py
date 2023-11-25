@@ -11,5 +11,4 @@ setup(
     url="https://github.com/howie6879/MagicGoogle/blob/master/README.md",
     packages=find_packages(),
     include_package_data=True,
-    package_dir={"": "data"},
 )
